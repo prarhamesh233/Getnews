@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  background-color: #ffff;
+ 
+}
+body{
+  background-color: #222022;
+}
+.card{
+  background-color: #222022;
+  color: #f7f0f0;
+
+}
+
+.container{
+  margin-top: 5%;
+}
+.card:hover{
+  transform: scale(1.1) ;
+  text-decoration: none;
+  color: #fff;
+}
+.card{
+transition: transform .5s;
+}
+.btn:focus{
+box-shadow: none;
+}
+.card{
+text-decoration: none;
+color: #fff;
+}
